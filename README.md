@@ -113,11 +113,63 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to share or collaborate.
 
 ---
 
-## ❓ FAQ
+# ❓ BotChief FAQ
 
-Check [`FAQ.md`](FAQ.md) for common questions about coding, stealth, compiling bots, and more.
+## 🤖 Do I need to know how to code?
+
+No! BotChief’s visual drag & drop builder covers 90% of common tasks.  
+You only add custom scripts if you want pro-level control.
 
 ---
+
+## 🔒 How is BotChief different from other automation tools?
+
+One big reason: **BotChief has a native anti-detect fingerprint browser built-in** —  
+no fragile plug-ins, no patched Chromium.  
+This lets you automate at scale without triggering advanced detection.
+
+---
+
+## 💻 Can I compile my bots as standalone apps?
+
+Yes! The **Elite** and **Developer** versions can export your automation as .EXE files.  
+Sell them, deploy on multiple PCs, or run as done-for-you SaaS.
+
+---
+
+## 🌍 What can I automate?
+
+- Social media growth (multi-account)
+- Crypto bounties & sign-ups
+- Scraping at scale
+- Custom stealth tools for resale
+
+Basically, anything repetitive on the web — with stealth built in.
+
+---
+
+## 💸 Is it legal?
+
+The software itself is legal.  
+**You are fully responsible** for how you use it — follow each platform’s Terms of Service, local laws, and privacy rules.
+
+---
+
+## 🛠️ Do you provide support?
+
+Yes! Start with:
+- The [official docs](https://www.botchief.com/)
+- Our [YouTube tutorials](https://www.youtube.com/@BotChief-Editor/videos)
+- Or email [support@botchief.com](mailto:support@botchief.com)
+
+---
+
+## 🚀 Can I share my own modules?
+
+Absolutely! Check [`CONTRIBUTING.md`](CONTRIBUTING.md) — we’d love to see your smart ideas in action.
+
+---
+
 
 ## 📞 Official Links
 
